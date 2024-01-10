@@ -17,4 +17,4 @@ then i tried to ask some questions about the data
 
 then tried to buil a ML model to predict user satisfaction based on reviews  
 i used - LogisticRegression , RandomForestClassifier achieved accuracy:  79.09%  ,   95.84% respectively  
-Link to report: https://lookerstudio.google.com/reporting/aeab7edc-bd45-46e5-b1ee-b433e60f1d07
+Link to report: https://lookerstudio.google.com/reporting/4b1196b2-2ef5-4151-b2ad-7865231c71ee
